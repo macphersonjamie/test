@@ -14,4 +14,6 @@ func main() {
 
 	fmt.Print("This appeared in the 0.0.2 tag ! \n ")
 
+	fmt.Printf("Some minor mods \n")
+
 }
