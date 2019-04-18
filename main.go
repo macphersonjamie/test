@@ -12,4 +12,6 @@ func main() {
 
 	fmt.Printf("Hello %s from the 0.0.1 branch ! \n", *subject)
 
+	fmt.Print("This appeared in the 0.0.2 tag ! \n ")
+
 }
