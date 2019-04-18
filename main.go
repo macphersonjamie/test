@@ -16,4 +16,11 @@ func main() {
 
 	fmt.Printf("Some minor mods \n")
 
+	newFeatureZ()
+
+}
+
+func newFeatureZ() {
+
+	fmt.Printf("New Feature Z running !")
 }
