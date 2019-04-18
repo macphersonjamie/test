@@ -18,9 +18,15 @@ func main() {
 
 	newFeatureZ()
 
+	newFeatureZplusplus()
+
 }
 
 func newFeatureZ() {
 
 	fmt.Printf("New Feature Z running !")
+}
+func newFeatureZplusplus() {
+
+	fmt.Printf("New Feature Z plus plus running !")
 }
